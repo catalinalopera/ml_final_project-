@@ -1,1 +1,4 @@
 __init__.py
+data/processed/test.csv
+data/processed/train.csv
+data/processed/val.csv

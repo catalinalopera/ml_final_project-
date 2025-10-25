@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Catalina/Desktop/ml_final_%20project/mlruns/624929061622755649/88d616a1726f43d5afcd363e00e1504d/artifacts
+end_time: 1761350362978
+entry_point_name: ''
+experiment_id: '624929061622755649'
+lifecycle_stage: active
+run_id: 88d616a1726f43d5afcd363e00e1504d
+run_name: SupportVectorMachine
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761350361274
+status: 3
+tags: []
+user_id: Catalina

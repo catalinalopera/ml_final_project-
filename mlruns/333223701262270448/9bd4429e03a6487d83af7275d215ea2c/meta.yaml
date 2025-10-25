@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Catalina/Desktop/ml_final_%20project/mlruns/333223701262270448/9bd4429e03a6487d83af7275d215ea2c/artifacts
+end_time: 1761350359597
+entry_point_name: ''
+experiment_id: '333223701262270448'
+lifecycle_stage: active
+run_id: 9bd4429e03a6487d83af7275d215ea2c
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761350356093
+status: 3
+tags: []
+user_id: Catalina

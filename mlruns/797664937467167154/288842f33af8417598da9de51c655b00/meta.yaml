@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Catalina/Desktop/ml_final_%20project/mlruns/797664937467167154/288842f33af8417598da9de51c655b00/artifacts
+end_time: 1761350360552
+entry_point_name: ''
+experiment_id: '797664937467167154'
+lifecycle_stage: active
+run_id: 288842f33af8417598da9de51c655b00
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761350359745
+status: 3
+tags: []
+user_id: Catalina
