@@ -17,4 +17,4 @@ Este es un proyecto académico que busca construirse a la par con los estudiante
 ├── requirements.txt # Dependencias del proyecto
 ├── README.md # Este archivo
 
-
+## Licencia no Especificada
